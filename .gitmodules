@@ -1,0 +1,6 @@
+[submodule "monaco-editor"]
+	path = monaco-editor
+	url = git@github.com:schoolofcodes/monaco-editor.git
+[submodule "online-compiler"]
+	path = online-compiler
+	url = git@github.com:schoolofcodes/online-compiler.git
